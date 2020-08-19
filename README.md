@@ -8,4 +8,4 @@
 - 📫 How to reach me: [Email](tamht298@gmail.com) - [Skype](thanhtam28ss@gmail.com) - [Twitter](https://twitter.com/matth0998) - [Facebook](https://facebook.com/matth0998)
 - 😄 Pronouns: Mr
 
-![tamht298's github stats](https://github-readme-stats.vercel.app/api?username=tamht298&show_icons=true)- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamht298&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamht298&show_icons=true) - ![tamht298's github stats](https://github-readme-stats.vercel.app/api?username=tamht298&show_icons=true)

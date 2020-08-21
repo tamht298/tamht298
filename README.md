@@ -9,8 +9,8 @@
 - 😄 Pronouns: Mr
 
 <p align="center">
-  <a href="https://github.com/eddiejaoude?tab=followers">
-    <img src="https://img.shields.io/github/stars/tamht298?label=Stars&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  <a href="https://github.com/tamht298?tab=followers">
+    <img src="https://img.shields.io/github/followers/tamht298?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/matth0998">
     <img src="https://img.shields.io/twitter/follow/matth0998?label=Twitter&logo=twitter&style=for-the-badge" />

@@ -85,8 +85,7 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Trello-logo-blue.svg/800px-Trello-logo-blue.svg.png"> 
 </td>
 </tr>
 

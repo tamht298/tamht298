@@ -31,8 +31,7 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Docker</center></b></span> 
-<img height=60px alt="Hibernate src="https://hibernate.org/images/hibernate-logo.svg"> 
+<img height=60px alt="Hibernate" src="https://hibernate.org/images/hibernate-logo.svg"> 
 </td>
                                                                                      
 <td align="center" width="20%">

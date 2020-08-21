@@ -27,19 +27,19 @@
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>Ansible</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>AWS</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
+<img height=60px alt="Spring Framework" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Docker</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+<img height=60px alt="Hibernate src="https://hibernate.org/images/hibernate-logo.svg"> 
 </td>
+                                                                                     
+<td align="center" width="20%">
+<img height=60px alt="Angular" src="https://angular.io/assets/images/logos/angular/angular.svg"> 
+</td>
+
+
 </tr>
 
 <tr>
@@ -95,5 +95,11 @@
 
 </tbody>
 </table>
+
+## My Certifications :arrow_down:
+
+- [VITEC's Information Technology Passport](https://drive.google.com/file/d/117VEcs19ToKAmWAbv5fMfGLHXEDGjpAI/view?usp=sharing)
+- [Certificate of Completion in Web Application Developer with Java](https://drive.google.com/file/d/11ClW6IN-2bJq7Vs7p6uR13W8w-ldbVTJ/view?usp=sharing)
+- [TOEIC]() 
 
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=tamht298&show_icons=true&bg_color=30,0ddeb8,047fd3&title_color=fff&text_color=fff" /></p>

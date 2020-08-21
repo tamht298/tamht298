@@ -43,19 +43,17 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Flask</center></b></span> 
-<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
+<img height=65px alt="Tailwindcss" src="https://camo.githubusercontent.com/87d7034892fd41dc88f3606bb44b853f87cd2c51/68747470733a2f2f7265666163746f72696e6775692e6e7963332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f7461696c77696e642d6c6f676f2e737667"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
+<img height=65px alt="Bootstrap" src="https://camo.githubusercontent.com/0e0adf58c74c6e74bb64ece5d0ef4620f4f46915/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67"> 
+</td>
+
+<td align="center" width="20%">
 <img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
 </td>
 
-<td align="center" width="20%">
-<span><b><center>Jenkins</center></b></span> 
-<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
-</td>
 </tr>
 
 <tr>

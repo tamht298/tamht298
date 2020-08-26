@@ -15,7 +15,7 @@
   <a href="http://twitter.com/matth0998">
     <img src="https://img.shields.io/twitter/follow/matth0998?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-  <a href="http://youtube.com/UCOcpl3mAJp0XORFM5aTaruA?sub_confirmation=1">
+  <a href="https://www.youtube.com/channel/UCOcpl3mAJp0XORFM5aTaruA?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/views/7MYMoGLcaMU?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
 </p>

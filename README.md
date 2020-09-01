@@ -63,8 +63,7 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Linux System Administration</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
+<img height=65px alt="Docker" src="https://stackjava.com/wp-content/uploads/2018/06/docker-logo.png"> 
 </td>
 
 <td align="center" width="20%">

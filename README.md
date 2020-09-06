@@ -20,7 +20,7 @@
   </a>
 </p>
 
-## Tech Stack :computer:
+## Tech Stack :computer
 
 <br>
 <table>
@@ -79,7 +79,7 @@
 </td>
 
 <td align="center" width="20%">
-<img height=65px src="https://download.logo.wine/logo/Redmine/Redmine-Logo.wine.png"> 
+<img height=65px src="https://www.redmineup.com/cms/assets/thumbnail//38122/600/redmine_logo.png"> 
 </td>
 
 <td align="center" width="20%">

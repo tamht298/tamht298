@@ -20,7 +20,7 @@
   </a>
 </p>
 
-## Tech Stack :computer
+## Tech Stack
 
 <br>
 <table>
@@ -90,7 +90,7 @@
 </tbody>
 </table>
 
-## My Certifications 📜:
+## Certifications
 
 - [VITEC's Information Technology Passport](https://drive.google.com/file/d/117VEcs19ToKAmWAbv5fMfGLHXEDGjpAI/view?usp=sharing)
 - [Certificate of Completion in Web Application Developer with Java](https://drive.google.com/file/d/11ClW6IN-2bJq7Vs7p6uR13W8w-ldbVTJ/view?usp=sharing)

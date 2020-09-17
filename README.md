@@ -94,6 +94,6 @@
 
 - [VITEC's Information Technology Passport](https://drive.google.com/file/d/117VEcs19ToKAmWAbv5fMfGLHXEDGjpAI/view?usp=sharing)
 - [Certificate of Completion in Web Application Developer with Java](https://drive.google.com/file/d/11ClW6IN-2bJq7Vs7p6uR13W8w-ldbVTJ/view?usp=sharing)
-- [TOEIC]() 
+- [TOEIC](Updating) 
 
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=tamht298&show_icons=true&bg_color=30,0ddeb8,047fd3&title_color=fff&text_color=fff" /></p>

@@ -68,7 +68,11 @@
 <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Trello-logo-blue.svg/800px-Trello-logo-blue.svg.png"> 
 </td>
 </tr>
-
+<tr>
+  <td align="center" width="20%">
+<img height=65px src="https://blog.tinohost.com/wp-content/uploads/2019/01/Pengertian-MySQL-Kegunaan-dan-Kelebihan.png"> 
+</td>
+  </tr>
 </tbody>
 </table>
 

@@ -57,26 +57,13 @@
 </tr>
 
 <tr>
-<td align="center" width="20%">
-<span><b><center>Kubernetes</center></b></span> 
-<img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> 
-</td>
 
 <td align="center" width="20%">
 <img height=65px alt="Docker" src="https://stackjava.com/wp-content/uploads/2018/06/docker-logo.png"> 
 </td>
-
-<td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
-<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
-</td>
 </tr>
 
 <tr>
-<td align="center" width="20%">
-<span><b><center>MongoDB</center></b></span> 
-<img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
-</td>
 
 <td align="center" width="20%">
 <img height=65px src="https://www.redmineup.com/cms/assets/thumbnail//38122/600/redmine_logo.png"> 

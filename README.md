@@ -49,7 +49,7 @@
       </tr>
       <tr>
          <td align="center" width="20%">
-            <img height=65px alt="SQL" src="https://fabiosilvabuzina.files.wordpress.com/2016/07/wp-1469282929208.png"> 
+            <img height=65px alt="SQL" src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png"> 
          </td>
          <td align="center" width="20%">
             <img height=65px src="https://www.redmineup.com/cms/assets/thumbnail//38122/600/redmine_logo.png"> 

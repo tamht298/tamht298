@@ -49,7 +49,7 @@
       </tr>
       <tr>
          <td align="center" width="20%">
-            <img height=65px alt="Docker" src="https://stackjava.com/wp-content/uploads/2018/06/docker-logo.png"> 
+            <img height=65px alt="SQL" src="https://fabiosilvabuzina.files.wordpress.com/2016/07/wp-1469282929208.png"> 
          </td>
          <td align="center" width="20%">
             <img height=65px src="https://www.redmineup.com/cms/assets/thumbnail//38122/600/redmine_logo.png"> 

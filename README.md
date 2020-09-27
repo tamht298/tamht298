@@ -49,14 +49,12 @@
       </tr>
       <tr>
          <td align="center" width="20%">
-            <img height=65px alt="SQL" src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png"> 
+            <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Trello-logo-blue.svg/800px-Trello-logo-blue.svg.png"> 
          </td>
          <td align="center" width="20%">
             <img height=65px src="https://www.redmineup.com/cms/assets/thumbnail//38122/600/redmine_logo.png"> 
          </td>
-         <td align="center" width="20%">
-            <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Trello-logo-blue.svg/800px-Trello-logo-blue.svg.png"> 
-         </td>
+         
       </tr>
       <tr>
          <td align="center" width="20%">
